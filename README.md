@@ -1,1 +1,1 @@
-# OMRSAcademy
+# OMRS Academy
