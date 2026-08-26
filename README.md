@@ -1,1 +1,1 @@
-# OMRSAcademy
+# OpenMRS Implmenters Pathway
